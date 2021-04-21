@@ -13,4 +13,4 @@ conda install rasterio=1.2.0 geopandas jupyterlab=2.2.9 scikit-learn psutil tqdm
 ```
 
 ## **Running DongbeiCrops**
-See [demo]() and [sample]() to start a simple workflow.
+See [demo](https://github.com/GenghisYoung233/DongbeiCrops/blob/master/demo.ipynb) and [sample](https://github.com/GenghisYoung233/DongbeiCrops/tree/master/sample) to start a simple workflow.
