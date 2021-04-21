@@ -1,6 +1,6 @@
 ## **Overview**
 
-The **DongbeiCrops** contains deep learning models forked from [BreizhCrops](https://github.com/dl4sits/BreizhCrops) and several implementation to process your custom datasets, e.g., Gaofen satllite data in Northeast China (Dōngběi in Mandarin).
+The **DongbeiCrops** contains deep learning models forked from [BreizhCrops](https://github.com/dl4sits/BreizhCrops) and several implementation to process your **custom datasets**, e.g., Gaofen satllite data in Northeast China (Dōngběi in Mandarin).
 
 ## **Installation**
 Those step are for your a workstation on Windows 10 using miniconda.
